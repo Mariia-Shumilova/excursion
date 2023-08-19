@@ -1,5 +1,4 @@
 * {
-
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: black;
 }
@@ -37,4 +36,10 @@ p {
 
 img {
     padding: 10px;
+}
+
+@media only screen and (max-width: 1215px) {
+    #camp-photo{
+        width: 100%
+    }
 }
